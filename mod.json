@@ -1,0 +1,9 @@
+{
+    "name": "harrow",
+    "version": "0.0.0",
+    "label": "Harrow",
+    "url": "http://github.com/faerietree/harrow",
+    "description": "A tool that serves meadow care, e.g. it can be pulled across a meadow after manure has been spread if it is still too clumsy.",
+    "dependencies": [],
+    "type": "asset"
+}
